@@ -20,6 +20,7 @@
 
 
 <h3 align="left">🛠 Language and tools</h3>
+<i class="fa-brands fa-html5"></i>
 
 <!---
 fcuk80/fcuk80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
